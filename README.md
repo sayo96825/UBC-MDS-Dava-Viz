@@ -11,4 +11,8 @@ course 1 and course 3 of UBC Data Science program <br>
   - donations = pd.read_csv('https://raw.githubusercontent.com/UBC-MDS/exploratory-data-viz/main/chapters/en/slides/module5/data/donations.csv') <br>
   - state_pop = pd.read_csv('https://raw.githubusercontent.com/UBC-MDS/exploratory-data-viz/main/chapters/en/slides/module6/data/us_population_coordinates_asthma-cases.csv')
 
-- 🐧
+* Example
+  - 🐧
+  - Gapminder
+  - movies
+  - 🥣
