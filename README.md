@@ -12,7 +12,7 @@ course 1 and course 3 of UBC Data Science program <br>
   - state_pop = pd.read_csv('https://raw.githubusercontent.com/UBC-MDS/exploratory-data-viz/main/chapters/en/slides/module6/data/us_population_coordinates_asthma-cases.csv')
 
 * Example
-  - 🐧
+  - 🐧 Penguins
   - Gapminder
   - movies
-  - 🥣
+  - 🥣 Cereal
