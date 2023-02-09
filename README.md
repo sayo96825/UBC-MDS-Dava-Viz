@@ -15,4 +15,5 @@ course 1 and course 3 of UBC Data Science program <br>
   - 🐧 Penguins
   - Gapminder
   - movies
+  - vega_movies
   - 🥣 Cereal
